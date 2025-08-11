@@ -1,8 +1,8 @@
 [
   {
     "key": "DGVI112010",
-    "user_id": "6415297481",
-    "expiration_date": "2025-12-31"
+    "user_id": "6237327806",
+    "expiration_date": "2025-8-12"
   },
   {
     "key": "DGVIKAKA2010",
@@ -15,3 +15,4 @@
     "expiration_date": "2026-02-28"
   }
 ]
+
