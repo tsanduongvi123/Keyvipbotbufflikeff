@@ -12,7 +12,7 @@
   {
     "key": "DGVIKAKA1111",
     "user_id": "0",
-    "expiration_date": "9999-9-9"
+    "expiration_date": "2025-8-20"
   },
   {
     "key": "DGVI-VN",
@@ -20,6 +20,7 @@
     "expiration_date": "9999-9-9"
   }
 ]
+
 
 
 
