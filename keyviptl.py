@@ -11,7 +11,6 @@
   },
   {
     "key": "DGVIKAKA1111",
-    "user_id": "6039814076",
     "expiration_date": "9999-9-9"
   },
   {
@@ -20,6 +19,7 @@
     "expiration_date": "9999-9-9"
   }
 ]
+
 
 
 
